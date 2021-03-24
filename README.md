@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ByteBeamer
-- 👀 I’m interested in game development
+- 👀 I’m interested in game development (specifically a 3D one)
 - 🌱 I’m currently learning java
 
 <!---
